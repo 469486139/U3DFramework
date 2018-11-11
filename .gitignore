@@ -1,0 +1,14 @@
+/FW/TestResults
+/FW/packages
+/FW/FW/obj
+/FW/FW/bin
+/FW/.vs
+/U3D/.vs
+/U3D/Library
+/U3D/Temp
+/FW/UnitTestProject1/bin
+/U3D/U3D.csproj
+/U3D/U3D.sln
+/U3D/Unity.PackageManagerUI.Editor.csproj
+/U3D/UnityEditor.StandardEvents.csproj
+/FW/UnitTestProject1/obj
